@@ -1,5 +1,5 @@
 $thawing-dusk-6309
-# Creates a directory for your project called "Hello-World" in your user directory
+# Creates a directory for your project called "thawing-dusk-6309" in your user directory
 
 
 cd ~/thawing-dusk-6309
