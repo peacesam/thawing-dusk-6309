@@ -12,4 +12,4 @@ git init
 # Initialized empty Git repository in /Users/you/thawing-dusk-6309/.git/
 
 touch README
-# Creates a file called "README" in your Hello-World directory
+# Creates a file called "README" in your thawing-dusk-6309 directory
